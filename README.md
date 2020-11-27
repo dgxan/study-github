@@ -30,3 +30,11 @@ git branch -M main
 git push -u origin main
 ```
 
+
+
+```
+git add -A
+git commit -m "first commit"
+git push 
+```
+
