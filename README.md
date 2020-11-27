@@ -40,4 +40,6 @@ git push
 ```
 git pull
 ```
-
+```
+git clone http://
+```
